@@ -56,3 +56,16 @@ _TODO_ Install Might and Magic VI/VII/VIII (MM8 for MM6-7-8 merge mod)
 **Enables**: Play MM6, 7, and 8 in context of MM8 engine and viewport.
 
 *Instructions*: _TODO_
+
+
+<hr />
+
+## Keywords
+
+- Might and Magic 6
+- Might and Magic VI
+- Might and Magic 7
+- Might and Magic VII
+- Might and Magic 8
+- Might and Magic VIII
+- New World Computing
