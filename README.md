@@ -19,8 +19,8 @@ I've personally found it confusing and difficult to keep track of the many mods 
 
 ## Critical Mods
 
-1. ![GrayFace Mod](https://grayface.github.io/mm/) ... Introduces all sorts of _critical_ updates, including mouse-look, double-speed, etc. From GrayFace ![His GitHub Page](https://GrayFace.github.io) and ![His Google Page](https://sites.google.com/site/sergroj/mm)
-2. ![Might and Magic 6-7-8 Merge Mod](https://www.celestialheavens.com/forum/10/16657) ... Merges MM6-7-8 into one game as rendered by the MM8 engine.
-3. ![DgVoodoo 2 for HD rendering](http://dege.freeweb.hu/dgVoodoo2/dgVoodoo2.html)
+1. ![GrayFace Mod](https://grayface.github.io/mm/) - Introduces all sorts of _critical_ updates, including mouse-look, double-speed, etc. From GrayFace ![His GitHub Page](https://GrayFace.github.io) and ![His Google Page](https://sites.google.com/site/sergroj/mm)
+2. ![Might and Magic 6-7-8 Merge Mod](https://www.celestialheavens.com/forum/10/16657) - Merges MM6-7-8 into one game as rendered by the MM8 engine.
+3. ![DgVoodoo 2 for HD rendering](http://dege.freeweb.hu/dgVoodoo2/dgVoodoo2.html) - HD Rendering
 
 ## Instructions from Stock Might and Magic to Fully Modded Might and Magic
