@@ -27,4 +27,9 @@ I've personally found it confusing and difficult to keep track of the many mods 
 
 # Quick Start
 
-_Goal: Get from a fresh download of Might and Magic to fully modded and ready-to-play in ten minutes_
+_Goal: Get from a fresh download of Might and Magic to modded and ready-to-play in ten minutes (GrayFace mod + DgVoodoo2 HD mod). Final (optional) step: MM6-7-8 merge mod_
+
+### Step 1: Download or Install Game Material
+
+
+### Step 2: Install 
