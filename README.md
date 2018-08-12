@@ -16,3 +16,8 @@ I've personally found it confusing and difficult to keep track of the many mods 
 
 - ![Celestial Heavens Forums for Might and Magic I-X](https://www.celestialheavens.com/forum/10)
 - ![Might and Magic Reddit](https://www.reddit.com/r/MightAndMagic/)
+
+## Critical Mods
+
+1. ![GrayFace Mod](https://grayface.github.io/mm/) 
+2. ![Might and Magic 6-7-8 Merge Mod](https://www.celestialheavens.com/forum/10/16657)
