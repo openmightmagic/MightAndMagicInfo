@@ -16,6 +16,7 @@ I've personally found it confusing and difficult to keep track of the many mods 
 
 - [Celestial Heavens Forums for Might and Magic I-X](https://www.celestialheavens.com/forum/10)
 - [Might and Magic Reddit](https://www.reddit.com/r/MightAndMagic/)
+- [Gog.com Might and Magic Series Forums](https://github.com/openmightmagic/MightAndMagicInfo)
 
 ## Critical Mods
 
@@ -31,5 +32,14 @@ _Goal: Get from a fresh download of Might and Magic to modded and ready-to-play 
 
 ### Step 1: Download or Install Game Material
 
+_TODO_ Install Might and Magic VI/VII/VIII (MM8 for MM6-7-8 merge mod)
 
 ### Step 2: Install 
+
+#### 2.1 Install GreyFace Mod Over Current Installation
+
+_TODO_
+
+**Enables**: Mouse look, double-speed, etc.
+
+#### 2.2 Install 
