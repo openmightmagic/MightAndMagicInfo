@@ -8,20 +8,20 @@ I've personally found it confusing and difficult to keep track of the many mods 
 
 ## Purchasing Might and Magic Game Content
 
-- ![Might and Magic VI on Gog.com](https://www.gog.com/game/might_and_magic_6_limited_edition)
-- ![Might and Magic VII on Gog.com](https://www.gog.com/game/might_and_magic_7_for_blood_and_honor)
-- ![Might and Magic VIII on Gog.com](https://www.gog.com/game/might_and_magic_8_day_of_the_destroyer)
+- [Might and Magic VI on Gog.com](https://www.gog.com/game/might_and_magic_6_limited_edition)
+- [Might and Magic VII on Gog.com](https://www.gog.com/game/might_and_magic_7_for_blood_and_honor)
+- [Might and Magic VIII on Gog.com](https://www.gog.com/game/might_and_magic_8_day_of_the_destroyer)
 
 ## Online Resources
 
-- ![Celestial Heavens Forums for Might and Magic I-X](https://www.celestialheavens.com/forum/10)
-- ![Might and Magic Reddit](https://www.reddit.com/r/MightAndMagic/)
+- [Celestial Heavens Forums for Might and Magic I-X](https://www.celestialheavens.com/forum/10)
+- [Might and Magic Reddit](https://www.reddit.com/r/MightAndMagic/)
 
 ## Critical Mods
 
-1. ![GrayFace Mod](https://grayface.github.io/mm/) - Introduces all sorts of _critical_ updates, including mouse-look, double-speed, etc. From GrayFace ![His GitHub Page](https://GrayFace.github.io) and ![His Google Page](https://sites.google.com/site/sergroj/mm)
-2. ![Might and Magic 6-7-8 Merge Mod](https://www.celestialheavens.com/forum/10/16657) - Merges MM6-7-8 into one game as rendered by the MM8 engine.
-3. ![DgVoodoo 2 for HD rendering](http://dege.freeweb.hu/dgVoodoo2/dgVoodoo2.html) - HD Rendering
+1. [GrayFace Mod](https://grayface.github.io/mm/) - Introduces all sorts of _critical_ updates, including mouse-look, double-speed, etc. From GrayFace [His GitHub Page](https://GrayFace.github.io) and [His Google Page](https://sites.google.com/site/sergroj/mm)
+2. [Might and Magic 6-7-8 Merge Mod](https://www.celestialheavens.com/forum/10/16657) - Merges MM6-7-8 into one game as rendered by the MM8 engine.
+3. [DgVoodoo 2 for HD rendering](http://dege.freeweb.hu/dgVoodoo2/dgVoodoo2.html) - HD Rendering
 
 <hr />
 
