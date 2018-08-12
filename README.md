@@ -23,4 +23,8 @@ I've personally found it confusing and difficult to keep track of the many mods 
 2. ![Might and Magic 6-7-8 Merge Mod](https://www.celestialheavens.com/forum/10/16657) - Merges MM6-7-8 into one game as rendered by the MM8 engine.
 3. ![DgVoodoo 2 for HD rendering](http://dege.freeweb.hu/dgVoodoo2/dgVoodoo2.html) - HD Rendering
 
-## Instructions from Stock Might and Magic to Fully Modded Might and Magic
+<hr />
+
+# Quick Start
+
+_Goal: Get from a fresh download of Might and Magic to fully modded and ready-to-play in ten minutes_
