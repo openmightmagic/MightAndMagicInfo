@@ -51,9 +51,9 @@ _TODO_ Install Might and Magic VI/VII/VIII (MM8 for MM6-7-8 merge mod)
 
 *Instructions*: _TODO_
 
-### 2.3 Install MM678 Merge
+#### 2.3 Install MM678 Merge
 
-**Enables**: Play MM6, 7, and 8 in context of MM8 engine and viewport.
+**Enables**: Play MM 6, 7, and 8 in context of MM8 engine and viewport.
 
 *Instructions*: _TODO_
 
