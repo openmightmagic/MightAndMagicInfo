@@ -65,6 +65,17 @@ _TODO_
 
 <hr />
 
+## Linux Instructions
+
+_TODO - Here is what is needed_
+
+1. Install and run stock mm6/7/8 under Wine
+2. Install mods over this installation
+3. Determine if/how dgVoodoo2 mod can work
+4. Create all-in-one shell scripts to install and configure all mods
+
+<hr />
+
 ## Keywords
 
 - Might and Magic 6
