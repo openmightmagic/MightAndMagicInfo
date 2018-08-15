@@ -12,9 +12,7 @@ Same game content, new rendering engines - [See Reimplementations Page](/Reimple
 
 ## Purchasing Might and Magic Game Content
 
-- [Might and Magic VI on Gog.com](https://www.gog.com/game/might_and_magic_6_limited_edition)
-- [Might and Magic VII on Gog.com](https://www.gog.com/game/might_and_magic_7_for_blood_and_honor)
-- [Might and Magic VIII on Gog.com](https://www.gog.com/game/might_and_magic_8_day_of_the_destroyer)
+Might and Magic 6-8 on Gog.com [6](https://www.gog.com/game/might_and_magic_6_limited_edition), [7](https://www.gog.com/game/might_and_magic_7_for_blood_and_honor), and [8](https://www.gog.com/game/might_and_magic_8_day_of_the_destroyer)
 
 ## Online Resources
 
