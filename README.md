@@ -8,7 +8,7 @@ I've personally found it confusing and difficult to keep track of the many mods 
 
 ## Might and Magic Engine Reimplementations
 
-(See Reimplementations Page][/Reimplementations]
+(See Reimplementations Page)[/Reimplementations]
 
 ## Purchasing Might and Magic Game Content
 
