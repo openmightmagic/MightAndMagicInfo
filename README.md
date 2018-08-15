@@ -8,7 +8,7 @@ I've personally found it confusing and difficult to keep track of the many mods 
 
 ## Might and Magic Engine Reimplementations
 
-[See Reimplementations Page](/Reimplementations)
+Same game content, new rendering engines - [See Reimplementations Page](/Reimplementations.md)
 
 ## Purchasing Might and Magic Game Content
 
@@ -77,15 +77,3 @@ _TODO - Here is what is needed_
 2. Install mods over this installation
 3. Determine if/how dgVoodoo2 mod can work
 4. Create all-in-one shell scripts to install and configure all mods
-
-<hr />
-
-## Keywords
-
-- Might and Magic 6
-- Might and Magic VI
-- Might and Magic 7
-- Might and Magic VII
-- Might and Magic 8
-- Might and Magic VIII
-- New World Computing
