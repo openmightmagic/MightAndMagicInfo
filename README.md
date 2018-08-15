@@ -6,6 +6,10 @@ This repo is intended to serve as a "Getting Started" guide for playing  Might a
 
 I've personally found it confusing and difficult to keep track of the many mods that now exist for the games (as of 2018). I wanted to create a simple self-contained guide for how to download, install, and configure them, so anyone can quickly get started playing the games.
 
+## Might and Magic Engine Reimplementations
+
+(See Reimplementations Page][/Reimplementations]
+
 ## Purchasing Might and Magic Game Content
 
 - [Might and Magic VI on Gog.com](https://www.gog.com/game/might_and_magic_6_limited_edition)
