@@ -1,6 +1,6 @@
 # Might And Magic Info
 
-This repo is intended to serve as a "Getting Started" guide for playing  Might and Magic 6, 7, and 8 in the 21st Century. As such, it is intended to be a all-in-one guide for installing and using the many mods that now exist for the game.
+This repo is intended to serve as a "Getting Started" guide for playing  Might and Magic 6, 7, and 8 in the 21st Century. As such, it is intended to be a all-in-one guide for installing and using the many mods and engine reimplementations that now exist for the game (HD graphics, new game content, cross-platform support).
 
 ## Motivation
 
@@ -8,7 +8,7 @@ I've personally found it confusing and difficult to keep track of the many mods 
 
 ## Might and Magic Engine Reimplementations
 
-(See Reimplementations Page)[/Reimplementations]
+[See Reimplementations Page](/Reimplementations)
 
 ## Purchasing Might and Magic Game Content
 
