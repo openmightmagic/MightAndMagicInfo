@@ -1,3 +1,5 @@
+[Might and Magic Info Home](/README.md)
+
 # Might and Magic 6-8 Reimplementations
 
 | Project Name | Developer | Intention |
