@@ -6,6 +6,8 @@ This repo is intended to serve as a "Getting Started" guide for playing  Might a
 
 I've personally found it confusing and difficult to keep track of the many mods that now exist for the games (as of 2018). I wanted to create a simple self-contained guide for how to download, install, and configure them, so anyone can quickly get started playing the games.
 
+Great reference: http://web.archive.org/web/20100220102350/http://www.flamestryke.com/mm7/flamestrykes_mm7.html
+
 ## Might and Magic Engine Reimplementations
 
 Same game content, new rendering engines - [See Reimplementations Page](/Reimplementations.md)
